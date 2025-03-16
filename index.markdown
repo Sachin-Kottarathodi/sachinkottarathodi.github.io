@@ -7,7 +7,6 @@ title: Home
 I'm a Principal Architect with expertise in system design, scalable architectures, and cloud solutions.
 
 ## Sections
-- [About Me](about.html)
-- [Resume](resume.html)
-- [Blog](blog.html)
-	
+- [About Me]({{ site.baseurl }}/about.html)
+- [Resume]({{ site.baseurl }}/resume.html)
+- [Blog]({{ site.baseurl }}/blog/)
