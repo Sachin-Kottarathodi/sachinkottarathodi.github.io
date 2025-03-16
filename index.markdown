@@ -9,4 +9,5 @@ I'm a Principal Architect with expertise in system design, scalable architecture
 ## Sections
 - [About Me](about.html)
 - [Resume](resume.html)
-- [Blog](/blog)
+- [Blog](blog.html)
+	
