@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-permalink: /blog/
+permalink: /sachinkottarathodi.github.io/blog/
 ---
 
 # Blog
