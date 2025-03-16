@@ -1,6 +1,6 @@
 repository: Sachin-Kottarathodi/sachinkottarathodi.github.io
 url: "https://sachinkottarathodi.github.io"
-baseurl: 
+baseurl: "/sachinkottarathodi.github.io"
 
 title: "Sachin Kottarathodi's Portfolio"
 author: "Sachin Kottarathodi"
