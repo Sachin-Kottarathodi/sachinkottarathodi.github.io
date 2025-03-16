@@ -1,0 +1,26 @@
+a.download-btn {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 5px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+a.download-btn:hover {
+    background-color: #45a049;
+}
+
+
+a.linkedin-btn {
+    background-color: #0A66C2;
+    color: #fff;
+    padding: 5px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+a.linkedin-btn:hover {
+    background-color: #084A93;
+}
